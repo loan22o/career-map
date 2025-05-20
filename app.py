@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1v8ragaHwEMMyWD11oPMHL5-VNbOxMpyS
 """
 
-!pip install streamlit pandas plotly
-
 # Commented out IPython magic to ensure Python compatibility.
 # # mbti.py
 # %%writefile mbti.py
